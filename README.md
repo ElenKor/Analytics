@@ -1,4 +1,4 @@
-# Анализ открытых финансовых данных для оптимизации направления инвестиций
+# Анализ открытых финансовых данных для оптимизации направления инвестиций :chart: :moneybag:
 
 ## Описание проекта 
 Данный проект посвящен практической реализации моделей <strong>линейной регрессии, RandomForestRegressor, GradientBoostingRegressor, SVR, KneighborsRegressor, CatBoostRegressor </strong> на языке программирования Python и сравнению эффективности данных моделей.  
@@ -79,74 +79,87 @@ SVR и KNN показывают близкие результаты, но SVR я
 линия цены (голубой цвет) выводит данные, полученные моделью на вход
 
 <p align="center">
-  <img src="https://github.com/ElenKor/Analytics/blob/main/images/8.png" />
-</p>
+  <img src="https://github.com/ElenKor/Analytics/blob/main/images/8.png" /></p>
+   <p align="center">
  MAE = 0,185<br>
-График 7. Прогнозирование цены валюты EURO методом линейной регрессии, поми-нутно на час.
+	</p>
+ <p align="center">График 7. Прогнозирование цены валюты EURO методом линейной регрессии, поми-нутно на час.</p>
 
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/9.png" />
 </p>
+ <p align="center">
  R2 = 0,695 MAE = 0,14 <br>
-График 8. Прогнозирование цены валюты EURO методом линейной регрессии на час.
+ </p>
+ <p align="center">График 8. Прогнозирование цены валюты EURO методом линейной регрессии на час.</p>
 
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/10.png" />
 </p>
+ <p align="center">
  MAE = 0,152<br>
-График 9. Прогнозирование цены валюты EURO методом RandomForestRegressor, по-минутно на час.
+ </p>
+ <p align="center">График 9. Прогнозирование цены валюты EURO методом RandomForestRegressor, по-минутно на час.</p>
 
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/11.png" />
 </p>
+ <p align="center">
  R2 = 0,809 MAE = 0,096<br>
-График 10. Прогнозирование цены валюты EURO методом RandomForestRegressor, на час
+ </p>
+ <p align="center">График 10. Прогнозирование цены валюты EURO методом RandomForestRegressor, на час</p>
  
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/12.png" />
 </p>
+ <p align="center">
  MAE = 0,164<br>
-График 11. Прогнозирование цены валюты EURO методом GradientBoostingRegressor поминутно на час.
+ </p>
+ <p align="center">График 11. Прогнозирование цены валюты EURO методом GradientBoostingRegressor поминутно на час.</p>
 
 
  
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/13.png" />
 </p>
+ <p align="center">
  R2 = 0,814 MAE = 0,0926 <br>
-График 12. Прогнозирование цены валюты EURO методом GradientBoostingRegressor, на час.
+ </p>
+ <p align="center">График 12. Прогнозирование цены валюты EURO методом GradientBoostingRegressor, на час.</p>
 
  
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/14.png" />
 </p>
- 
- MAE = 0,074 <br>
-График 13. Прогнозирование цены валюты EURO методом SVR поминутно на час.
+  <p align="center">
+ MAE = 0,074 <br> </p>
+ <p align="center">График 13. Прогнозирование цены валюты EURO методом SVR поминутно на час.</p>
 
 
  
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/15.png" />
 </p>
+ <p align="center">
  R2 = 0,753 MAE = 0,117 <br>
-График 14. Прогнозирование цены валюты EURO методом SVR, на час.
+ <p align="center">График 14. Прогнозирование цены валюты EURO методом SVR, на час.</p>
 
  
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/16.png" />
 </p>
-
+ <p align="center">
 MAE = 0,134 <br>
-График 15. Прогнозирование цены валюты EURO методом KneighborsRegressor поми-нутно на час.
+ <p align="center">График 15. Прогнозирование цены валюты EURO методом KneighborsRegressor поми-нутно на час.</p>
 
 
  
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/17.png" />
 </p>
+ <p align="center">
 R2 = 0,787 MAE = 0,105 <br>
-График 16. Прогнозирование цены валюты EURO методом KneighborsRegressor, на час.
+ <p align="center">График 16. Прогнозирование цены валюты EURO методом KneighborsRegressor, на час.</p>
 
 
 
