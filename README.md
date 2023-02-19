@@ -81,33 +81,31 @@ SVR и KNN показывают близкие результаты, но SVR я
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/8.png" />
 </p>
- MAE = 0,185
+ MAE = 0,185<br>
 График 7. Прогнозирование цены валюты EURO методом линейной регрессии, поми-нутно на час.
 
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/9.png" />
 </p>
- R2 = 0,695
-MAE = 0,14
+ R2 = 0,695 MAE = 0,14 <br>
 График 8. Прогнозирование цены валюты EURO методом линейной регрессии на час.
 
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/10.png" />
 </p>
- MAE = 0,152
+ MAE = 0,152<br>
 График 9. Прогнозирование цены валюты EURO методом RandomForestRegressor, по-минутно на час.
 
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/11.png" />
 </p>
- R2 = 0,809
-MAE = 0,096
+ R2 = 0,809 MAE = 0,096<br>
 График 10. Прогнозирование цены валюты EURO методом RandomForestRegressor, на час
  
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/12.png" />
 </p>
- MAE = 0,164
+ MAE = 0,164<br>
 График 11. Прогнозирование цены валюты EURO методом GradientBoostingRegressor поминутно на час.
 
 
@@ -115,8 +113,7 @@ MAE = 0,096
  <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/13.png" />
 </p>
- R2 = 0,814
-MAE = 0,092
+ R2 = 0,814 MAE = 0,0926 <br>
 График 12. Прогнозирование цены валюты EURO методом GradientBoostingRegressor, на час.
 
  
@@ -124,7 +121,7 @@ MAE = 0,092
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/14.png" />
 </p>
  
- MAE = 0,074
+ MAE = 0,074 <br>
 График 13. Прогнозирование цены валюты EURO методом SVR поминутно на час.
 
 
@@ -132,8 +129,7 @@ MAE = 0,092
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/15.png" />
 </p>
- R2 = 0,753
-MAE = 0,117
+ R2 = 0,753 MAE = 0,117 <br>
 График 14. Прогнозирование цены валюты EURO методом SVR, на час.
 
  
@@ -141,7 +137,7 @@ MAE = 0,117
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/16.png" />
 </p>
 
-MAE = 0,134
+MAE = 0,134 <br>
 График 15. Прогнозирование цены валюты EURO методом KneighborsRegressor поми-нутно на час.
 
 
@@ -149,8 +145,7 @@ MAE = 0,134
 <p align="center">
   <img src="https://github.com/ElenKor/Analytics/blob/main/images/17.png" />
 </p>
-R2 = 0,787
-MAE = 0,105
+R2 = 0,787 MAE = 0,105 <br>
 График 16. Прогнозирование цены валюты EURO методом KneighborsRegressor, на час.
 
 
